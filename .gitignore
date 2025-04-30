@@ -7,11 +7,11 @@ __pycache__/
 *.pyc
 
 # Pliki bazy danych
-*.db
+#*.db
 
 # Konfiguracje edytorów
 .vscode/
 .idea/
 
 # Notebooki cache
-.ipynb_checkpoints/
+#.ipynb_checkpoints/
